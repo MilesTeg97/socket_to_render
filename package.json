@@ -4,7 +4,7 @@
   "description": "",
   "main": "n.js",
   "scripts": {
-    "start": "node n.js"
+    "start": "node n.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
