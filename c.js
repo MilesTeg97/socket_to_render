@@ -1,5 +1,5 @@
 const WebSocket = require('ws')
-const url = 'ws://localhost:9000'
+const url = 'ws://localhost:10000'
 const connection = new WebSocket(url)
 connection.onopen = () => {
   connection.send('Message From Client') 
